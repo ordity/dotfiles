@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/02-alone-together.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161a32",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#161a32",
+        "color1": "#93f25c",
+        "color2": "#e4e4a6",
+        "color3": "#bbee97",
+        "color4": "#988d78",
+        "color5": "#a6a195",
+        "color6": "#86847b",
+        "color7": "#eeeeee",
+        "color8": "#252c55",
+        "color9": "#b8ff61",
+        "color10": "#ffffbb",
+        "color11": "#ebffa9",
+        "color12": "#d0b586",
+        "color13": "#e5d1a8",
+        "color14": "#b8ad8a",
+        "color15": "#ffffff"
+    }
+}

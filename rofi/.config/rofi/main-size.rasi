@@ -1,0 +1,6 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+#window {
+    width: 600px;
+    height: 300px;
+}

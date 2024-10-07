@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/11-distopian-anime-girl.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1b11",
+        "foreground": "#b8e9e9",
+        "cursor": "#b8e9e9"
+    },
+    "colors": {
+        "color0": "#1b1b11",
+        "color1": "#bb5751",
+        "color2": "#076076",
+        "color3": "#d18d64",
+        "color4": "#17346b",
+        "color5": "#b65756",
+        "color6": "#6b5059",
+        "color7": "#88b4d3",
+        "color8": "#383a23",
+        "color9": "#ed5e56",
+        "color10": "#077998",
+        "color11": "#edaf6e",
+        "color12": "#143f90",
+        "color13": "#ed605d",
+        "color14": "#945a6b",
+        "color15": "#b8e9e9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/20-big-metroid.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#172035",
+        "foreground": "#fdfdff",
+        "cursor": "#fdfdff"
+    },
+    "colors": {
+        "color0": "#172035",
+        "color1": "#B8C4CF",
+        "color2": "#AEB8C6",
+        "color3": "#C2BEC7",
+        "color4": "#93A6BA",
+        "color5": "#A8ABBA",
+        "color6": "#98AEC3",
+        "color7": "#dddde0",
+        "color8": "#253458",
+        "color9": "#d5ffff",
+        "color10": "#caebff",
+        "color11": "#f9ddff",
+        "color12": "#a9d7ff",
+        "color13": "#c3cfff",
+        "color14": "#afe2ff",
+        "color15": "#fdfdff"
+    }
+}

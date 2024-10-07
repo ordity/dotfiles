@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/28-scifi-forest-sky.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081a26",
+        "foreground": "#f3fff8",
+        "cursor": "#f3fff8"
+    },
+    "colors": {
+        "color0": "#081a26",
+        "color1": "#ba42c3",
+        "color2": "#5C5B6F",
+        "color3": "#9b9850",
+        "color4": "#4B708D",
+        "color5": "#bd686b",
+        "color6": "#508799",
+        "color7": "#bac7be",
+        "color8": "#1285d8",
+        "color9": "#fb44ff",
+        "color10": "#6b699d",
+        "color11": "#ced858",
+        "color12": "#5393c5",
+        "color13": "#ff747c",
+        "color14": "#58b7d6",
+        "color15": "#f3fff8"
+    }
+}

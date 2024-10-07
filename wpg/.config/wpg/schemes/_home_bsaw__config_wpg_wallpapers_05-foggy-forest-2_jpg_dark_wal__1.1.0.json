@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/05-foggy-forest-2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#01150B",
+        "foreground": "#e6e6e7",
+        "cursor": "#e6e6e7"
+    },
+    "colors": {
+        "color0": "#01150B",
+        "color1": "#4D745B",
+        "color2": "#658A6B",
+        "color3": "#7A9584",
+        "color4": "#9FAFA6",
+        "color5": "#B9C4C0",
+        "color6": "#D1D6D6",
+        "color7": "#e6e6e7",
+        "color8": "#a1a1a1",
+        "color9": "#4D745B",
+        "color10": "#658A6B",
+        "color11": "#7A9584",
+        "color12": "#9FAFA6",
+        "color13": "#B9C4C0",
+        "color14": "#D1D6D6",
+        "color15": "#e6e6e7"
+    }
+}

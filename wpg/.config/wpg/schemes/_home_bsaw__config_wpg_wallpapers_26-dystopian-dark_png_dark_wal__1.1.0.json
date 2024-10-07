@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/26-dystopian-dark.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101010",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#C0BEBF",
+        "color2": "#C6C4C5",
+        "color3": "#AEADAD",
+        "color4": "#C1BFC0",
+        "color5": "#A19FA0",
+        "color6": "#A09E9F",
+        "color7": "#dad9d9",
+        "color8": "#292929",
+        "color9": "#ffdef8",
+        "color10": "#ffe4ff",
+        "color11": "#f8caca",
+        "color12": "#ffdff9",
+        "color13": "#e6b9d0",
+        "color14": "#e4b8ce",
+        "color15": "#fffefe"
+    }
+}

@@ -1,0 +1,22 @@
+[color]
+background	= #50{color0.strip}
+foreground	= #FF{color15.strip}
+sep         = #FF{color12.strip}
+
+white       = #FF{color15.strip}
+black       = #FF{color0.strip}
+red         = #FF{color1.strip}
+pink        = #FF{color2.strip}
+purple      = #FF{color3.strip}
+blue        = #FF{color4.strip}
+cyan        = #FF{color5.strip}
+teal        = #FF{color6.strip}
+green       = #FF{color7.strip}
+lime        = #A0{color8.strip}
+yellow      = #FF{color9.strip}
+amber       = #FF{color10.strip}
+orange      = #FF{color11.strip}
+brown       = #FF{color12.strip}
+indigo      = #FF{color13.strip}
+gray        = #FF{color14.strip}
+blue-gray   = #FF{color7.strip}

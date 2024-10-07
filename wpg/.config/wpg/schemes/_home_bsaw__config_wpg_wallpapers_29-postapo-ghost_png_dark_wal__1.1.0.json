@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/29-postapo-ghost.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131212",
+        "foreground": "#fffaff",
+        "cursor": "#fffaff"
+    },
+    "colors": {
+        "color0": "#131212",
+        "color1": "#A25342",
+        "color2": "#867C86",
+        "color3": "#8F8791",
+        "color4": "#6F6B6E",
+        "color5": "#A798A3",
+        "color6": "#8D9D8E",
+        "color7": "#d3cbd2",
+        "color8": "#2c2a2a",
+        "color9": "#e16246",
+        "color10": "#be90be",
+        "color11": "#c49dce",
+        "color12": "#9e7d96",
+        "color13": "#edb0dd",
+        "color14": "#a4dfa7",
+        "color15": "#fffaff"
+    }
+}

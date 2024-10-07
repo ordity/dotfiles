@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/19-cave-entrance.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1313",
+        "foreground": "#ffffe9",
+        "cursor": "#ffffe9"
+    },
+    "colors": {
+        "color0": "#0f1313",
+        "color1": "#8f734e",
+        "color2": "#9c9365",
+        "color3": "#d2bd44",
+        "color4": "#5b8788",
+        "color5": "#a8a892",
+        "color6": "#6b979b",
+        "color7": "#e7ddc3",
+        "color8": "#8ba7a7",
+        "color9": "#c89856",
+        "color10": "#dbca72",
+        "color11": "#ffff46",
+        "color12": "#67bcc0",
+        "color13": "#efefa8",
+        "color14": "#7ad1da",
+        "color15": "#ffffe9"
+    }
+}

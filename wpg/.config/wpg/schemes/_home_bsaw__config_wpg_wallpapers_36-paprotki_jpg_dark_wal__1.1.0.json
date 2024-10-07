@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/36-paprotki.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0e0c",
+        "foreground": "#ffffe7",
+        "cursor": "#ffffe7"
+    },
+    "colors": {
+        "color0": "#0a0e0c",
+        "color1": "#95784D",
+        "color2": "#3A8F63",
+        "color3": "#ABA86B",
+        "color4": "#576E49",
+        "color5": "#635D3B",
+        "color6": "#689261",
+        "color7": "#e9eac3",
+        "color8": "#1e2b25",
+        "color9": "#d09e55",
+        "color10": "#3ec680",
+        "color11": "#f0ea79",
+        "color12": "#6e9a53",
+        "color13": "#8a8042",
+        "color14": "#7bcd6e",
+        "color15": "#ffffe7"
+    }
+}

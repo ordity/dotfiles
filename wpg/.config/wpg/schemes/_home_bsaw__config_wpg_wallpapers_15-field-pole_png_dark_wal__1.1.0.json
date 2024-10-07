@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/15-field-pole.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#003439",
+        "foreground": "#f2ffff",
+        "cursor": "#f2ffff"
+    },
+    "colors": {
+        "color0": "#003439",
+        "color1": "#8FB7AF",
+        "color2": "#74A78D",
+        "color3": "#83B19C",
+        "color4": "#4E7D82",
+        "color5": "#9EBEC9",
+        "color6": "#9DBEC9",
+        "color7": "#c7d6dc",
+        "color8": "#01606a",
+        "color9": "#a4fff0",
+        "color10": "#84ebb6",
+        "color11": "#96facc",
+        "color12": "#57adb6",
+        "color13": "#b6ffff",
+        "color14": "#b4ffff",
+        "color15": "#f2ffff"
+    }
+}

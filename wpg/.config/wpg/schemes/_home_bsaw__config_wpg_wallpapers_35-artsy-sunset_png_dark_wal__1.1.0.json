@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/35-artsy-sunset.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#060407",
+        "foreground": "#ffffd5",
+        "cursor": "#ffffd5"
+    },
+    "colors": {
+        "color0": "#060407",
+        "color1": "#E15825",
+        "color2": "#6C8368",
+        "color3": "#E2A85B",
+        "color4": "#97694F",
+        "color5": "#A18C63",
+        "color6": "#A2522E",
+        "color7": "#f0daad",
+        "color8": "#211428",
+        "color9": "#ff6a1e",
+        "color10": "#81b977",
+        "color11": "#ffdd61",
+        "color12": "#d38457",
+        "color13": "#e2bb6f",
+        "color14": "#e0652e",
+        "color15": "#ffffd5"
+    }
+}

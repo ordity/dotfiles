@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/30-gradient-1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090b13",
+        "foreground": "#d6ffff",
+        "cursor": "#d6ffff"
+    },
+    "colors": {
+        "color0": "#090b13",
+        "color1": "#617995",
+        "color2": "#586c84",
+        "color3": "#69927f",
+        "color4": "#4d5f77",
+        "color5": "#687f9a",
+        "color6": "#7288a9",
+        "color7": "#a8b8eb",
+        "color8": "#182135",
+        "color9": "#709cd2",
+        "color10": "#638bbb",
+        "color11": "#78cea5",
+        "color12": "#5576a9",
+        "color13": "#76a4d9",
+        "color14": "#82aeed",
+        "color15": "#d6ffff"
+    }
+}

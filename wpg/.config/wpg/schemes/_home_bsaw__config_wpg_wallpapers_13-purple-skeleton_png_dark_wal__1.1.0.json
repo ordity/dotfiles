@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/13-purple-skeleton.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0119",
+        "foreground": "#e3a5ff",
+        "cursor": "#e3a5ff"
+    },
+    "colors": {
+        "color0": "#0f0119",
+        "color1": "#c8118c",
+        "color2": "#7210a1",
+        "color3": "#941fa4",
+        "color4": "#1501b4",
+        "color5": "#c40f8e",
+        "color6": "#300cb0",
+        "color7": "#a67ae6",
+        "color8": "#490167",
+        "color9": "#ff09b7",
+        "color10": "#9109d2",
+        "color11": "#c015dd",
+        "color12": "#1801df",
+        "color13": "#ff06b9",
+        "color14": "#3603e6",
+        "color15": "#e3a5ff"
+    }
+}

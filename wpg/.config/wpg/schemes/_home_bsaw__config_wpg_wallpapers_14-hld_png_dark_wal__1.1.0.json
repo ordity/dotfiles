@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/14-hld.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#c2ffff",
+        "cursor": "#c2ffff"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#D93096",
+        "color2": "#6536C1",
+        "color3": "#A83EAA",
+        "color4": "#5135C3",
+        "color5": "#F334A4",
+        "color6": "#8E77D2",
+        "color7": "#94e8e3",
+        "color8": "#28ffc7",
+        "color9": "#ff2dc6",
+        "color10": "#7e36ff",
+        "color11": "#e841ec",
+        "color12": "#5f34ff",
+        "color13": "#ff30d8",
+        "color14": "#ae85ff",
+        "color15": "#c2ffff"
+    }
+}

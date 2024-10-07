@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/07-leafhole.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#05160F",
+        "foreground": "#a9c39f",
+        "cursor": "#a9c39f"
+    },
+    "colors": {
+        "color0": "#05160F",
+        "color1": "#29752B",
+        "color2": "#426E41",
+        "color3": "#268120",
+        "color4": "#34842F",
+        "color5": "#498B37",
+        "color6": "#3A8742",
+        "color7": "#a9c39f",
+        "color8": "#76886f",
+        "color9": "#29752B",
+        "color10": "#426E41",
+        "color11": "#268120",
+        "color12": "#34842F",
+        "color13": "#498B37",
+        "color14": "#3A8742",
+        "color15": "#a9c39f"
+    }
+}

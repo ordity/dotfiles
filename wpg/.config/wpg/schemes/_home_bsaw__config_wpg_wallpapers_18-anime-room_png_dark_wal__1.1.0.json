@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/18-anime-room.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0a0d",
+        "foreground": "#e7f9ff",
+        "cursor": "#e7f9ff"
+    },
+    "colors": {
+        "color0": "#0b0a0d",
+        "color1": "#494854",
+        "color2": "#5B6675",
+        "color3": "#525869",
+        "color4": "#374BAB",
+        "color5": "#90678A",
+        "color6": "#66728B",
+        "color7": "#b0bdca",
+        "color8": "#221f29",
+        "color9": "#565377",
+        "color10": "#6882a5",
+        "color11": "#5e6c94",
+        "color12": "#3857ed",
+        "color13": "#cb75be",
+        "color14": "#748ec4",
+        "color15": "#e7f9ff"
+    }
+}

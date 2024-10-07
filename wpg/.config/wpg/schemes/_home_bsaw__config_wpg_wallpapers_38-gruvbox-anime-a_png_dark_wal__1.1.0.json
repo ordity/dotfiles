@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/38-gruvbox-anime-a.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#201d16",
+        "foreground": "#fff4d4",
+        "cursor": "#fff4d4"
+    },
+    "colors": {
+        "color0": "#201d16",
+        "color1": "#A26A3E",
+        "color2": "#6C6A49",
+        "color3": "#A67247",
+        "color4": "#895837",
+        "color5": "#93774C",
+        "color6": "#95653B",
+        "color7": "#c6b79f",
+        "color8": "#3d372a",
+        "color9": "#e18842",
+        "color10": "#989453",
+        "color11": "#e7924c",
+        "color12": "#be6f3a",
+        "color13": "#cd9d54",
+        "color14": "#cf823f",
+        "color15": "#fff4d4"
+    }
+}

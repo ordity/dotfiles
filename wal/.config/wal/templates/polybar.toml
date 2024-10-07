@@ -1,0 +1,9 @@
+[colors]
+background	= #99{color0.strip}
+background-alt  = #A9{color8.strip}
+background-alt2 = #90{color14.strip}
+foreground	= #{color15.strip}
+primary		= #{color2.strip}
+secondary	= #{color3.strip}
+alert		= #{color1.strip}
+disabled	= #{color7.strip}

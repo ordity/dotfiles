@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/24-fractal-cube.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#21181e",
+        "foreground": "#fff9fa",
+        "cursor": "#fff9fa"
+    },
+    "colors": {
+        "color0": "#21181e",
+        "color1": "#927496",
+        "color2": "#CFB0CD",
+        "color3": "#D8AAA7",
+        "color4": "#6D66C0",
+        "color5": "#8A7ACF",
+        "color6": "#AC929F",
+        "color7": "#e9dfe0",
+        "color8": "#3e2c38",
+        "color9": "#ca85d4",
+        "color10": "#ffcbff",
+        "color11": "#ffc7c0",
+        "color12": "#7d71ff",
+        "color13": "#a689ff",
+        "color14": "#f4a9ce",
+        "color15": "#fff9fa"
+    }
+}

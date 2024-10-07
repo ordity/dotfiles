@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/39-texture-c.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f020f",
+        "foreground": "#83ffff",
+        "cursor": "#83ffff"
+    },
+    "colors": {
+        "color0": "#0f020f",
+        "color1": "#2b64a8",
+        "color2": "#34be87",
+        "color3": "#3490ca",
+        "color4": "#2f59c3",
+        "color5": "#41b4ed",
+        "color6": "#4abaff",
+        "color7": "#68ffff",
+        "color8": "#350e35",
+        "color9": "#2c84ec",
+        "color10": "#38feb0",
+        "color11": "#34bcff",
+        "color12": "#3077ff",
+        "color13": "#46ffff",
+        "color14": "#59ffff",
+        "color15": "#83ffff"
+    }
+}

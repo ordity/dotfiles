@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/23-waves-2.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2d1322",
+        "foreground": "#a0ffff",
+        "cursor": "#a0ffff"
+    },
+    "colors": {
+        "color0": "#2d1322",
+        "color1": "#04B2CF",
+        "color2": "#03C6BA",
+        "color3": "#03B1B3",
+        "color4": "#04A0D5",
+        "color5": "#078EA9",
+        "color6": "#03D0D1",
+        "color7": "#78e0eb",
+        "color8": "#50213c",
+        "color9": "#01eaff",
+        "color10": "#01fff4",
+        "color11": "#01e8eb",
+        "color12": "#01d2ff",
+        "color13": "#01bde3",
+        "color14": "#01ffff",
+        "color15": "#a0ffff"
+    }
+}

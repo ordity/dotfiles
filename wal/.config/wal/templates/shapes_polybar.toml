@@ -1,0 +1,13 @@
+[color]
+background	= #00{color0.strip}
+foreground	= #FF{color15.strip}
+foreground-alt = #FF{color12.strip}
+
+shade1 = #FF{color1.strip}
+shade2 = #FF{color2.strip}
+shade3 = #FF{color13.strip}
+shade4 = #FF{color4.strip}
+shade5 = #FF{color5.strip}
+shade6 = #FF{color10.strip}
+shade7 = #FF{color7.strip}
+shade8 = #FF{color8.strip}

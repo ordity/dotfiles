@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/bsaw/.config/wpg/wallpapers/42-gruvbox-minimal-b.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0e10",
+        "foreground": "#ffffee",
+        "cursor": "#ffffee"
+    },
+    "colors": {
+        "color0": "#0d0e10",
+        "color1": "#6A685A",
+        "color2": "#49624A",
+        "color3": "#DACDA8",
+        "color4": "#837E6B",
+        "color5": "#B0A98D",
+        "color6": "#918B75",
+        "color7": "#ebe3cf",
+        "color8": "#23262b",
+        "color9": "#969068",
+        "color10": "#538a56",
+        "color11": "#ffffc1",
+        "color12": "#b9ac7b",
+        "color13": "#f9e8a2",
+        "color14": "#cdbe87",
+        "color15": "#ffffee"
+    }
+}
