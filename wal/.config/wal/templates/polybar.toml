@@ -1,9 +1,27 @@
 [colors]
-background	= #99{color0.strip}
+background	    = #99{color0.strip}
 background-alt  = #A9{color8.strip}
-background-alt2 = #90{color14.strip}
-foreground	= #{color15.strip}
-primary		= #{color2.strip}
-secondary	= #{color3.strip}
-alert		= #{color1.strip}
-disabled	= #{color7.strip}
+foreground	    = #{color15.strip}
+primary		    = #{color2.strip}
+secondary	    = #{color3.strip}
+alert		    = #{color1.strip}
+disabled	    = #{color7.strip}
+notify          = #70{color9.strip}
+
+c0  = #{color0.strip}
+c1  = #{color1.strip}
+c2  = #{color2.strip}
+c3  = #{color3.strip}
+c4  = #{color4.strip}
+c5  = #{color5.strip}
+c6  = #{color6.strip}
+c7  = #{color7.strip}
+c8  = #{color8.strip}
+c9  = #{color9.strip}
+c10 = #{color10.strip}
+c11 = #{color11.strip}
+c12 = #{color12.strip}
+c13 = #{color13.strip}
+c14 = #{color14.strip}
+c15 = #{color15.strip}
+
