@@ -14,7 +14,7 @@ export QT_QPA_PLATFORMTHEME=""
 # NNN config:
 export NNN_BMS='D:~/Documents/;h:~/;d:~/Downloads/;p:/media/disk1/projects/'
 
-NNN_PLUG_EDIT_FILE='e:-! vim "$nnn";E:-!sudo -E vim "$nnn"'
+NNN_PLUG_EDIT_FILE='e:-! nvim "$nnn";E:-!sudo -E vim "$nnn"'
 NNN_PLUG_ADMIN='x:!chmod +x "$nnn"'
 # NNN_PLUG_UTIL=''
 
