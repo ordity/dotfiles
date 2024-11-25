@@ -38,4 +38,5 @@ set $backlight-step 5
 
 # Set resize step value.
 set $resize-step 10
+set $resize-step-shift 25
 

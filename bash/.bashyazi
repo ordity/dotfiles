@@ -1,0 +1,24 @@
+#!bin/bash
+function y() {
+    # create temp file for storing cwd
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" 
+    
+    # create a variable for current working directory
+    local cwd
+
+    # open yazi with saving cwd to file
+	yazi "$@" --cwd-file="$tmp"
+
+    # if $cwd can be set to output of $tmp AND $cwd is non-zero AND it is different from $PWD
+	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
+        # change directory to $cwd
+		builtin cd -- "$cwd"
+	fi
+
+    # remove temp file
+	rm -f -- "$tmp"
+}
+
+# Plan to make it different:
+# Open up new tmux window split and hold up current bash session
+# Set it's
