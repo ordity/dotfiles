@@ -1,3 +1,5 @@
 /wpg/.config/wpg/wallpapers/*
 /wpg/.config/wpg/schemes/*
 /wpg/.config/wpg/samples/*
+/wpg/.config/wpg/sequences
+/wpg/.config/wpg/wp_init.sh
