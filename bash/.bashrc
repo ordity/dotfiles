@@ -51,3 +51,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# eval "$(oh-my-posh init bash --config ~/.config/ohmyposh/bash_ohmyposh.yaml)"
