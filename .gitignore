@@ -3,3 +3,4 @@
 /wpg/.config/wpg/samples/*
 /wpg/.config/wpg/sequences
 /wpg/.config/wpg/wp_init.sh
+/tmux/.config/tmux/plugins/*
