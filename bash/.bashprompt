@@ -42,11 +42,6 @@ CR="$RESET"
 TB="$ESC[1m"
 TR="$ESC(B$ESC[m"
 
-## Global prompt modules.
-MODULE_NODEB="\[${C3}\]■\[${C1}\]"
-MODULE_NODEP="\[${C4}\]■\[${C1}\]"
-DOT="\[${C5}\]·\[${C1}\]"
-
 ## PS1 Modules (primary prompt).
 # I use modules for bash prompt. Writing them all down manually is annoying to reuse.
 # Separating all the module elements into separate variables makes it easier to work with them.
@@ -58,19 +53,21 @@ DOT="\[${C5}\]·\[${C1}\]"
 # \w full location
 #
 # Build first line.
-MODULE_NAME="[\[${TB}${C2}\]\u@\h\[${TR}${C1}\]]"
-MODULE_DATE="[\[${TB}${C2}\]\d\[${TR}${C1}\]]"
-MODULE_TIME="[\[${TB}${C2}\]\A\[${TR}${C1}\]]"
-MODULE_NLVL="[\[${TB}${C2}\]N$NNNLVL\[${TR}${C1}\]]"
-PS_LINE_1="$MODULE_NODEB─┬─$MODULE_NAME─$DOT─$MODULE_TIME─$DOT─$MODULE_DATE─$DOT─$MODULE_NLVL──$MODULE_NODEB"
+MODULE_NAME="\[${TB}${C2}\]\u@\h\[${TR}${CR}\]"
+MODULE_DATE="\[${TB}${C2}\]\d\[${TR}${CR}\]"
+MODULE_TIME="\[${TB}${MAGENTA}\]\A\[${TR}${CR}\]"
+MODULE_NLVL="[\[${TB}${C2}\]N$NNNLVL\[${TR}${CR}\]]"
+MODULE_CDIR="\[${TB}${YELLOW}\] \W\[${TR}${CR}\]"
+MODULE_INPT="\[${B_BLUE}\]❯\[${CR}\] "
+MODULE_SHLL="\[${TB}${CYAN}\]bash\[${TR}${CR}\]"
 
-# Build second line.
-MODULE_CDIR="[\[${TB}${C2}\]\W\[${TR}${C1}\]]"
-MODULE_INPT="··$DOT\[${CR}\] "
-PS_LINE_2="\[${C1}\]  └─$MODULE_CDIR──$MODULE_INPT"
+
+PS_LINE_1="$MODULE_NAME $MODULE_CDIR $MODULE_SHLL $MODULE_TIME"
+PS_LINE_2="$MODULE_INPT"
 
 # Build the full PS1
 PS1="$PS_LINE_1\n$PS_LINE_2"
 
 ## PS2 Modules (Prompt on multi-line).
-PS2=" $MODULE_NODEP──[\[${TB}${C2}\]···\[${TR}${C1}\]]─··$DOT\[${CR}\] "
+PS2="\[${TR}${B_RED}\]❯❯\[${CR}\] "
+
